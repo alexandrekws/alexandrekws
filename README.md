@@ -11,16 +11,15 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <br>
 <br>
-<h3>:link:Conecte-se comigo:</h3>
+<h3>Conecte-se comigo:</h3>
 <br>
 <a href="https://www.linkedin.com/in/alexandrekawanishi/" target="_blank"><img src="https://github.com/alexandrekws/alexandrekws/blob/main/linkedin-original.png" alt="linkedin-logo" width=48px/></a>
 <a href="mailto:alexandrekws@hotmail.com"><img src="https://github.com/alexandrekws/alexandrekws/blob/main/mail-read-original.png" alt="email-imagem" width=48px/></a>
 <br>
-<br>
-<br>
-<h3>:link:Linguagens e Ferramentas:</h3>
-<br>
+<h3>Linguagens e Ferramentas:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-<br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrekws)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekws)](https://github.com/anuraghazra/github-readme-stats)
