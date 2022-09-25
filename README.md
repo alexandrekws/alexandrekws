@@ -6,10 +6,7 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <br>
 - 💬 Pergunte sobre qualquer coisa <a href="https://www.linkedin.com/in/alexandrekawanishi/" target="_blank">aqui</a>
-<br>
 - 📫 Como me contactar: <a href="mailto:alexandrekws@hotmail.com">:email: Envie um email</a>
-<br>
-<br>
 <br>
 <h3>Conecte-se comigo:</h3>
 <br>
