@@ -6,7 +6,7 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <br>
 - 💬 Pergunte sobre qualquer coisa <a href="https://www.linkedin.com/in/alexandrekawanishi/" target="_blank">aqui</a>
-- 📫 Como me contactar: <a href="mailto:alexandrekws@hotmail.com">:email: Envie um email</a>
+- 📫 Como me contactar: <a href="mailto:alexandrekawanishi8@gmail.com">:email: Envie um email</a>
 <br>
 <h3>Conecte-se comigo:</h3>
 <br>
@@ -15,7 +15,7 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <h3>Linguagens e Ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascrip,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
 
 [![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrekws)](https://github.com/anuraghazra/github-readme-stats)
 
