@@ -1,7 +1,7 @@
 <h1>:warning: Ola! Sejam bem-vindos :warning:</h1>
 
 Sou o Alexandre, sou um desenvolvedor Front-End.<br>
-Atualmente estou estudando e me aprimorando em Html e Css, fazendo alguns projetos, e iniciando o apredizado de JavaScript.<br>
+Atualmente continuo a me aperfeiçoar no html, css e javascript, fazendo alguns projetos, e aprendendo node.<br>
 Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <br>
@@ -15,7 +15,7 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <h3>Linguagens e Ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascrip,node)](https://skillicons.dev)
 
 [![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrekws)](https://github.com/anuraghazra/github-readme-stats)
 
