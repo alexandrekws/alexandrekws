@@ -11,7 +11,7 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <h3>Conecte-se comigo:</h3>
 <br>
 <a href="https://www.linkedin.com/in/alexandrekawanishi/" target="_blank"><img src="https://github.com/alexandrekws/alexandrekws/blob/main/linkedin-original.png" alt="linkedin-logo" width=48px/></a>
-<a href="mailto:alexandrekws@hotmail.com"><img src="https://github.com/alexandrekws/alexandrekws/blob/main/mail-read-original.png" alt="email-imagem" width=48px/></a>
+<a href="mailto:alexandrekawanishi8@gmail.com"><img src="https://github.com/alexandrekws/alexandrekws/blob/main/mail-read-original.png" alt="email-imagem" width=48px/></a>
 <br>
 <h3>Linguagens e Ferramentas:</h3>
 
