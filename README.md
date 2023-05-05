@@ -1,8 +1,11 @@
 <h1>:warning: Ola! Sejam bem-vindos :warning:</h1>
 
-Sou o Alexandre, sou um desenvolvedor Front-End.<br>
-Atualmente continuo a me aperfeiçoar no html, css e javascript, fazendo alguns projetos, e aprendendo node.<br>
-Pretendo no futuro proximo ser um desenvolvedor Full Stack.
+Sou o Alexandre, sou um desenvolvedor Full Stack.<br>
+Atualmente continuo a me aperfeiçoar no html, css, javascript, node.js, react.js. <br>
+Api's como React Router Dom V6, React Hook Form, Mui Material, entre outros. <br> 
+Banco de dados PostgreSQL e MongoDB. <br>
+E utilização do Docker. <br>
+Fazendo alguns projetos, e evoluindo nos conhecimentos um desenvolvedor Full Stack.
 <br>
 <br>
 - 💬 Pergunte sobre qualquer coisa <a href="https://www.linkedin.com/in/alexandrekawanishi/" target="_blank">aqui</a>
@@ -15,7 +18,7 @@ Pretendo no futuro proximo ser um desenvolvedor Full Stack.
 <br>
 <h3>Linguagens e Ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,docker,mongodb,postgres,materialui)](https://skillicons.dev)
 
 [![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrekws)](https://github.com/anuraghazra/github-readme-stats)
 
